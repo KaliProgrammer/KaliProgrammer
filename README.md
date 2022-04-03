@@ -11,6 +11,8 @@
 </div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"
           alt="cplusplus" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" 
+           width="40" height="40"/>&nbsp;
 
 <!---
 KaliProgrammer/KaliProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
