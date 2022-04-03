@@ -1,7 +1,6 @@
 - 👋 Hi, I'm Alyona, a passionate junior developer from Russia
 - 👀 I’m interested in development and coding
 - 🌱 I’m currently learning C++, Java
-- 💞️ I’m looking to collaborate on IOS Development
 - 📫 How to reach me: alyonakisha1@rambler.ru
 
 <div id="header" align="center">
@@ -11,8 +10,8 @@
 ### 🛠️: Languages and Tools :
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"
-alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
+alt="cplusplus" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original-wordmark.svg" width="80" height="80"/>&nbsp;
 
 <!---
 KaliProgrammer/KaliProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
