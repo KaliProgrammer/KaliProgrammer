@@ -5,7 +5,7 @@
 - 📫 How to reach me: alyonakisha1@rambler.ru
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-work-computer-pro-wcgn5fVDjvR7pdvz4C" width="100"/>
+  <img src="https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif" width="100"/>
 </div>
 
 <!---
