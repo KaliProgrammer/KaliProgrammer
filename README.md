@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Alyona, a passionate junior developer from Russia
+- 👋 Hi, I'm Alyona, a passionate iOS developer from Russia
 - 👀 I’m interested in development and coding
 - 🌱 I’m currently learning SWift, C++
 - 📫 How to reach me: alyonakisha1@rambler.ru
