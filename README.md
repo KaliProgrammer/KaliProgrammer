@@ -11,7 +11,7 @@
 
 ### 🛠️: Languages and Tools :
 </div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="80" height="80"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="80" height="80"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" width="80" height="80"/>&nbsp;
 
 
