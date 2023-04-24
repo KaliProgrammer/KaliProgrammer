@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Alyona - iOS Developer
 - 👀 I’m interested in development and coding
+- 📖 Love to learn all things about technology.
 - 📫 How to reach me: alyonakisha1@rambler.ru
 
 <div id="header" align="center">
